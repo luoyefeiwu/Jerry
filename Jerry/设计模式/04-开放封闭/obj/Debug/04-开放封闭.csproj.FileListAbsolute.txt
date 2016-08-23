@@ -1,0 +1,11 @@
+F:\Source\Jerry\04-开放封闭\bin\Debug\04-开放封闭.exe.config
+F:\Source\Jerry\04-开放封闭\bin\Debug\04-开放封闭.exe
+F:\Source\Jerry\04-开放封闭\bin\Debug\04-开放封闭.pdb
+F:\Source\Jerry\04-开放封闭\obj\Debug\04-开放封闭.exe
+F:\Source\Jerry\04-开放封闭\obj\Debug\04-开放封闭.pdb
+F:\Source\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.exe.config
+F:\Source\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.exe
+F:\Source\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.pdb
+F:\Source\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.exe
+F:\Source\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.pdb
+F:\Source\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.csprojResolveAssemblyReference.cache

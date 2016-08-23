@@ -1,0 +1,10 @@
+F:\Source\Jerry\27-解释器模式\bin\Debug\27-解释器模式.exe.config
+F:\Source\Jerry\27-解释器模式\bin\Debug\27-解释器模式.exe
+F:\Source\Jerry\27-解释器模式\bin\Debug\27-解释器模式.pdb
+F:\Source\Jerry\27-解释器模式\obj\Debug\27-解释器模式.exe
+F:\Source\Jerry\27-解释器模式\obj\Debug\27-解释器模式.pdb
+F:\Source\Jerry\设计模式\27-解释器模式\bin\Debug\27-解释器模式.exe.config
+F:\Source\Jerry\设计模式\27-解释器模式\bin\Debug\27-解释器模式.exe
+F:\Source\Jerry\设计模式\27-解释器模式\bin\Debug\27-解释器模式.pdb
+F:\Source\Jerry\设计模式\27-解释器模式\obj\Debug\27-解释器模式.exe
+F:\Source\Jerry\设计模式\27-解释器模式\obj\Debug\27-解释器模式.pdb

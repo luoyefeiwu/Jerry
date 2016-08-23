@@ -1,0 +1,12 @@
+F:\Source\Jerry\03-单一职责\bin\Debug\03-单一职责.exe.config
+F:\Source\Jerry\03-单一职责\bin\Debug\03-单一职责.exe
+F:\Source\Jerry\03-单一职责\bin\Debug\03-单一职责.pdb
+F:\Source\Jerry\03-单一职责\obj\Debug\03-单一职责.exe
+F:\Source\Jerry\03-单一职责\obj\Debug\03-单一职责.pdb
+F:\Source\Jerry\03-单一职责\obj\Debug\03-单一职责.csprojResolveAssemblyReference.cache
+F:\Source\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.exe.config
+F:\Source\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.exe
+F:\Source\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.pdb
+F:\Source\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.exe
+F:\Source\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.pdb
+F:\Source\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.csprojResolveAssemblyReference.cache

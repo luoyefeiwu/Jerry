@@ -1,0 +1,9 @@
+G:\Source\Jerry\test\bin\Debug\test.exe.config
+G:\Source\Jerry\test\bin\Debug\test.exe
+G:\Source\Jerry\test\bin\Debug\test.pdb
+G:\Source\Jerry\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\Source\Jerry\test\obj\Debug\test.exe
+G:\Source\Jerry\test\obj\Debug\test.pdb
+H:\Source\Jerry\设计模式\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+H:\Source\Jerry\设计模式\test\obj\Debug\test.exe
+H:\Source\Jerry\设计模式\test\obj\Debug\test.pdb

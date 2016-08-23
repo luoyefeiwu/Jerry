@@ -1,0 +1,8 @@
+F:\Source\Jerry\01-简单工厂模式\bin\Debug\01-简单工厂模式.exe.config
+F:\Source\Jerry\01-简单工厂模式\bin\Debug\01-简单工厂模式.exe
+F:\Source\Jerry\01-简单工厂模式\bin\Debug\01-简单工厂模式.pdb
+F:\Source\Jerry\01-简单工厂模式\obj\Debug\01-简单工厂模式.exe
+F:\Source\Jerry\01-简单工厂模式\obj\Debug\01-简单工厂模式.pdb
+C:\Source\Jerry\设计模式\01-简单工厂模式\bin\Debug\01-简单工厂模式.exe.config
+C:\Source\Jerry\设计模式\01-简单工厂模式\obj\Debug\01-简单工厂模式.exe
+C:\Source\Jerry\设计模式\01-简单工厂模式\obj\Debug\01-简单工厂模式.pdb
