@@ -10,6 +10,9 @@ namespace _21_单例模式
     {
         static void Main(string[] args)
         {
+            var str = Comm.Instance.SayHi();
+            Console.WriteLine(str);
+            Console.Read();
         }
     }
 }
