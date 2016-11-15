@@ -9,3 +9,9 @@ F:\Source\Jerry\设计模式\05-依赖倒转\bin\Debug\05-依赖倒转.pdb
 F:\Source\Jerry\设计模式\05-依赖倒转\obj\Debug\05-依赖倒转.exe
 F:\Source\Jerry\设计模式\05-依赖倒转\obj\Debug\05-依赖倒转.pdb
 F:\Source\Jerry\设计模式\05-依赖倒转\obj\Debug\05-依赖倒转.csprojResolveAssemblyReference.cache
+E:\gitSource\Jerry\设计模式\05-依赖倒转\bin\Debug\05-依赖倒转.exe.config
+E:\gitSource\Jerry\设计模式\05-依赖倒转\bin\Debug\05-依赖倒转.exe
+E:\gitSource\Jerry\设计模式\05-依赖倒转\bin\Debug\05-依赖倒转.pdb
+E:\gitSource\Jerry\设计模式\05-依赖倒转\obj\Debug\05-依赖倒转.csprojResolveAssemblyReference.cache
+E:\gitSource\Jerry\设计模式\05-依赖倒转\obj\Debug\05-依赖倒转.exe
+E:\gitSource\Jerry\设计模式\05-依赖倒转\obj\Debug\05-依赖倒转.pdb

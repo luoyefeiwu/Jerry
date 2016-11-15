@@ -8,3 +8,8 @@ F:\Source\Jerry\设计模式\16-状态模式\bin\Debug\16-状态模式.exe
 F:\Source\Jerry\设计模式\16-状态模式\bin\Debug\16-状态模式.pdb
 F:\Source\Jerry\设计模式\16-状态模式\obj\Debug\16-状态模式.exe
 F:\Source\Jerry\设计模式\16-状态模式\obj\Debug\16-状态模式.pdb
+E:\gitSource\Jerry\设计模式\16-状态模式\bin\Debug\16-状态模式.exe.config
+E:\gitSource\Jerry\设计模式\16-状态模式\bin\Debug\16-状态模式.exe
+E:\gitSource\Jerry\设计模式\16-状态模式\bin\Debug\16-状态模式.pdb
+E:\gitSource\Jerry\设计模式\16-状态模式\obj\Debug\16-状态模式.exe
+E:\gitSource\Jerry\设计模式\16-状态模式\obj\Debug\16-状态模式.pdb

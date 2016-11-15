@@ -9,3 +9,9 @@ F:\Source\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.pdb
 F:\Source\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.exe
 F:\Source\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.pdb
 F:\Source\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.csprojResolveAssemblyReference.cache
+E:\gitSource\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.exe.config
+E:\gitSource\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.exe
+E:\gitSource\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.pdb
+E:\gitSource\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.csprojResolveAssemblyReference.cache
+E:\gitSource\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.exe
+E:\gitSource\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.pdb

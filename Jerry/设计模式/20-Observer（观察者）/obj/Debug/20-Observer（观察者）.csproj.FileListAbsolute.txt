@@ -19,3 +19,9 @@ F:\Source\Jerry\设计模式\20-Observer（观察者）\obj\Debug\20-Observer（
 F:\Source\Jerry\设计模式\20-Observer（观察者）\bin\Debug\20-Observer（观察者）.exe
 F:\Source\Jerry\设计模式\20-Observer（观察者）\bin\Debug\20-Observer（观察者）.pdb
 F:\Source\Jerry\设计模式\20-Observer（观察者）\obj\Debug\20-Observer（观察者）.csprojResolveAssemblyReference.cache
+E:\gitSource\Jerry\设计模式\20-Observer（观察者）\bin\Debug\20-Observer（观察者）.exe.config
+E:\gitSource\Jerry\设计模式\20-Observer（观察者）\bin\Debug\20-Observer（观察者）.exe
+E:\gitSource\Jerry\设计模式\20-Observer（观察者）\bin\Debug\20-Observer（观察者）.pdb
+E:\gitSource\Jerry\设计模式\20-Observer（观察者）\obj\Debug\20-Observer（观察者）.csprojResolveAssemblyReference.cache
+E:\gitSource\Jerry\设计模式\20-Observer（观察者）\obj\Debug\20-Observer（观察者）.exe
+E:\gitSource\Jerry\设计模式\20-Observer（观察者）\obj\Debug\20-Observer（观察者）.pdb

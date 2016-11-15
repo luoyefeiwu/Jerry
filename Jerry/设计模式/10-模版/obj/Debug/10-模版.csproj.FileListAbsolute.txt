@@ -8,3 +8,8 @@ F:\Source\Jerry\设计模式\10-模版\bin\Debug\10-模版.exe
 F:\Source\Jerry\设计模式\10-模版\bin\Debug\10-模版.pdb
 F:\Source\Jerry\设计模式\10-模版\obj\Debug\10-模版.exe
 F:\Source\Jerry\设计模式\10-模版\obj\Debug\10-模版.pdb
+E:\gitSource\Jerry\设计模式\10-模版\bin\Debug\10-模版.exe.config
+E:\gitSource\Jerry\设计模式\10-模版\bin\Debug\10-模版.exe
+E:\gitSource\Jerry\设计模式\10-模版\bin\Debug\10-模版.pdb
+E:\gitSource\Jerry\设计模式\10-模版\obj\Debug\10-模版.exe
+E:\gitSource\Jerry\设计模式\10-模版\obj\Debug\10-模版.pdb

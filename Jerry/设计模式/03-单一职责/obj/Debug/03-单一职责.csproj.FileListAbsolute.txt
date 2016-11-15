@@ -10,3 +10,9 @@ F:\Source\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.pdb
 F:\Source\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.exe
 F:\Source\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.pdb
 F:\Source\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.csprojResolveAssemblyReference.cache
+E:\gitSource\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.exe.config
+E:\gitSource\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.exe
+E:\gitSource\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.pdb
+E:\gitSource\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.csprojResolveAssemblyReference.cache
+E:\gitSource\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.exe
+E:\gitSource\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.pdb

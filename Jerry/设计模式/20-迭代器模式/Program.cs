@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _20_迭代器模式
 {
@@ -10,7 +6,17 @@ namespace _20_迭代器模式
     {
         static void Main(string[] args)
         {
+            Iterator iterator;
+            IListCollection list = new ConcreteList();
+            iterator = list.GetIterator();
 
+            while (iterator.MoveNext())
+            {
+                int i = (int)iterator.GetCurrent();
+                Console.WriteLine(i);
+                iterator.Next();
+            }
+            Console.Read();
         }
     }
 }
