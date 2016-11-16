@@ -10,6 +10,9 @@ namespace _17_适配器模式
     {
         static void Main(string[] args)
         {
+            ITarget target = new Adapter();
+            target.Request();
+            Console.Read();
         }
     }
 }
