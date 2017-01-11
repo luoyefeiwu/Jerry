@@ -10,6 +10,10 @@ namespace _23_命令模式
     {
         static void Main(string[] args)
         {
+            Invoker xiaoSan = new Invoker();
+            xiaoSan.setCommand(new AddRequirement());
+            xiaoSan.action();
+            Console.Read();
         }
     }
 }
