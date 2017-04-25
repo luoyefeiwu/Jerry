@@ -13,3 +13,8 @@ E:\gitSource\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.
 E:\gitSource\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.pdb
 E:\gitSource\Jerry\设计模式\28-访问者模式\obj\Debug\28-访问者模式.exe
 E:\gitSource\Jerry\设计模式\28-访问者模式\obj\Debug\28-访问者模式.pdb
+E:\Learn\net\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.exe.config
+E:\Learn\net\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.exe
+E:\Learn\net\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.pdb
+E:\Learn\net\Jerry\设计模式\28-访问者模式\obj\Debug\28-访问者模式.exe
+E:\Learn\net\Jerry\设计模式\28-访问者模式\obj\Debug\28-访问者模式.pdb

@@ -10,3 +10,8 @@ E:\gitSource\Jerry\设计模式\14-观察者\bin\Debug\14-观察者.pdb
 E:\gitSource\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.csprojResolveAssemblyReference.cache
 E:\gitSource\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.exe
 E:\gitSource\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.pdb
+E:\Learn\net\Jerry\设计模式\14-观察者\bin\Debug\14-观察者.exe.config
+E:\Learn\net\Jerry\设计模式\14-观察者\bin\Debug\14-观察者.exe
+E:\Learn\net\Jerry\设计模式\14-观察者\bin\Debug\14-观察者.pdb
+E:\Learn\net\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.exe
+E:\Learn\net\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.pdb

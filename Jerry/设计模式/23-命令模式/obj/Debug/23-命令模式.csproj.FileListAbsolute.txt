@@ -14,3 +14,8 @@ E:\gitSource\Jerry\设计模式\23-命令模式\bin\Debug\23-命令模式.pdb
 E:\gitSource\Jerry\设计模式\23-命令模式\obj\Debug\23-命令模式.exe
 E:\gitSource\Jerry\设计模式\23-命令模式\obj\Debug\23-命令模式.pdb
 E:\gitSource\Jerry\设计模式\23-命令模式\obj\Debug\23-命令模式.csprojResolveAssemblyReference.cache
+E:\Learn\net\Jerry\设计模式\23-命令模式\bin\Debug\23-命令模式.exe.config
+E:\Learn\net\Jerry\设计模式\23-命令模式\bin\Debug\23-命令模式.exe
+E:\Learn\net\Jerry\设计模式\23-命令模式\bin\Debug\23-命令模式.pdb
+E:\Learn\net\Jerry\设计模式\23-命令模式\obj\Debug\23-命令模式.exe
+E:\Learn\net\Jerry\设计模式\23-命令模式\obj\Debug\23-命令模式.pdb

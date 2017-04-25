@@ -13,3 +13,8 @@ E:\gitSource\Jerry\设计模式\15-抽象工厂\bin\Debug\15-抽象工厂.exe
 E:\gitSource\Jerry\设计模式\15-抽象工厂\bin\Debug\15-抽象工厂.pdb
 E:\gitSource\Jerry\设计模式\15-抽象工厂\obj\Debug\15-抽象工厂.exe
 E:\gitSource\Jerry\设计模式\15-抽象工厂\obj\Debug\15-抽象工厂.pdb
+E:\Learn\net\Jerry\设计模式\15-抽象工厂\bin\Debug\15-抽象工厂.exe.config
+E:\Learn\net\Jerry\设计模式\15-抽象工厂\bin\Debug\15-抽象工厂.exe
+E:\Learn\net\Jerry\设计模式\15-抽象工厂\bin\Debug\15-抽象工厂.pdb
+E:\Learn\net\Jerry\设计模式\15-抽象工厂\obj\Debug\15-抽象工厂.exe
+E:\Learn\net\Jerry\设计模式\15-抽象工厂\obj\Debug\15-抽象工厂.pdb

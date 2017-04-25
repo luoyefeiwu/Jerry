@@ -1,0 +1,4 @@
+E:\Learn\net\Jerry\架构\Oauth\bin\Debug\Oauth.dll
+E:\Learn\net\Jerry\架构\Oauth\bin\Debug\Oauth.pdb
+E:\Learn\net\Jerry\架构\Oauth\obj\Debug\Oauth.dll
+E:\Learn\net\Jerry\架构\Oauth\obj\Debug\Oauth.pdb

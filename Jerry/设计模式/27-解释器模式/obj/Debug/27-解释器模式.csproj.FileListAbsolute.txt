@@ -13,3 +13,8 @@ E:\gitSource\Jerry\设计模式\27-解释器模式\bin\Debug\27-解释器模式.
 E:\gitSource\Jerry\设计模式\27-解释器模式\bin\Debug\27-解释器模式.pdb
 E:\gitSource\Jerry\设计模式\27-解释器模式\obj\Debug\27-解释器模式.exe
 E:\gitSource\Jerry\设计模式\27-解释器模式\obj\Debug\27-解释器模式.pdb
+E:\Learn\net\Jerry\设计模式\27-解释器模式\bin\Debug\27-解释器模式.exe.config
+E:\Learn\net\Jerry\设计模式\27-解释器模式\bin\Debug\27-解释器模式.exe
+E:\Learn\net\Jerry\设计模式\27-解释器模式\bin\Debug\27-解释器模式.pdb
+E:\Learn\net\Jerry\设计模式\27-解释器模式\obj\Debug\27-解释器模式.exe
+E:\Learn\net\Jerry\设计模式\27-解释器模式\obj\Debug\27-解释器模式.pdb
