@@ -18,9 +18,6 @@ E:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.Test.exe
 E:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.Test.pdb
 E:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.dll
 E:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.pdb
-E:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\ServiceStack.Common.xml
-E:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\ServiceStack.Redis.xml
-E:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\ServiceStack.Text.xml
 E:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Server.Test.csprojResolveAssemblyReference.cache
 E:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Test.exe
 E:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Test.pdb

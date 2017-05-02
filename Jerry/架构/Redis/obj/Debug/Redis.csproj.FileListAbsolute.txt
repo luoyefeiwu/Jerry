@@ -9,3 +9,4 @@ E:\Learn\net\Jerry\架构\Redis\bin\Debug\ServiceStack.Redis.xml
 E:\Learn\net\Jerry\架构\Redis\bin\Debug\ServiceStack.Text.xml
 E:\Learn\net\Jerry\架构\Redis\obj\Debug\Redis.dll
 E:\Learn\net\Jerry\架构\Redis\obj\Debug\Redis.pdb
+E:\Learn\net\Jerry\架构\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache

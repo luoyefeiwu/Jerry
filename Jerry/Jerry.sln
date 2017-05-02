@@ -100,6 +100,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis", "架构\Redis\Redis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.Server.Test", "架构\Redis.Test\Redis.Server.Test.csproj", "{CC7EFD59-739D-418B-B5A1-28367D8E97C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientHelper", "HttpClientHelper\HttpClientHelper.csproj", "{C44BCF4B-2B8B-4E17-8852-84CEEAF1A75D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -234,6 +236,10 @@ Global
 		{CC7EFD59-739D-418B-B5A1-28367D8E97C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC7EFD59-739D-418B-B5A1-28367D8E97C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC7EFD59-739D-418B-B5A1-28367D8E97C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44BCF4B-2B8B-4E17-8852-84CEEAF1A75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44BCF4B-2B8B-4E17-8852-84CEEAF1A75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44BCF4B-2B8B-4E17-8852-84CEEAF1A75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44BCF4B-2B8B-4E17-8852-84CEEAF1A75D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -271,5 +277,6 @@ Global
 		{57AD9E05-0BEC-4FAD-82A9-660DC9CD1AD2} = {A7CBA6F4-92C5-4AE5-ACD1-14126BBCACFB}
 		{373DCB33-E43A-4A1A-9505-1777E284D08D} = {A7CBA6F4-92C5-4AE5-ACD1-14126BBCACFB}
 		{CC7EFD59-739D-418B-B5A1-28367D8E97C8} = {A7CBA6F4-92C5-4AE5-ACD1-14126BBCACFB}
+		{C44BCF4B-2B8B-4E17-8852-84CEEAF1A75D} = {A7CBA6F4-92C5-4AE5-ACD1-14126BBCACFB}
 	EndGlobalSection
 EndGlobal

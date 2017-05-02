@@ -18,6 +18,6 @@ E:\gitSource\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.pdb
 E:\Learn\net\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.exe.config
 E:\Learn\net\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.exe
 E:\Learn\net\Jerry\设计模式\04-开放封闭\bin\Debug\04-开放封闭.pdb
-E:\Learn\net\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.csprojResolveAssemblyReference.cache
 E:\Learn\net\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.exe
 E:\Learn\net\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.pdb
+E:\Learn\net\Jerry\设计模式\04-开放封闭\obj\Debug\04-开放封闭.csprojResolveAssemblyReference.cache
