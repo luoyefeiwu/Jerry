@@ -1,0 +1,13 @@
+E:\LearnTest\Test\MonitorService\bin\Debug\MonitorService.exe.config
+E:\LearnTest\Test\MonitorService\bin\Debug\MonitorService.exe
+E:\LearnTest\Test\MonitorService\bin\Debug\MonitorService.pdb
+E:\LearnTest\Test\MonitorService\bin\Debug\SuperSocket.ClientEngine.dll
+E:\LearnTest\Test\MonitorService\bin\Debug\WebSocket4Net.dll
+E:\LearnTest\Test\MonitorService\obj\Debug\MonitorService.exe
+E:\LearnTest\Test\MonitorService\obj\Debug\MonitorService.pdb
+E:\Learn\net\Jerry\架构\MonitorService\bin\Debug\MonitorService.exe.config
+E:\Learn\net\Jerry\架构\MonitorService\bin\Debug\MonitorService.exe
+E:\Learn\net\Jerry\架构\MonitorService\bin\Debug\MonitorService.pdb
+E:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.csprojResolveAssemblyReference.cache
+E:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.exe
+E:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.pdb

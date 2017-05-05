@@ -18,3 +18,4 @@ E:\Learn\net\Jerry\设计模式\07-代理模式\bin\Debug\07-代理模式.exe
 E:\Learn\net\Jerry\设计模式\07-代理模式\bin\Debug\07-代理模式.pdb
 E:\Learn\net\Jerry\设计模式\07-代理模式\obj\Debug\07-代理模式.exe
 E:\Learn\net\Jerry\设计模式\07-代理模式\obj\Debug\07-代理模式.pdb
+E:\Learn\net\Jerry\设计模式\07-代理模式\obj\Debug\07-代理模式.csprojResolveAssemblyReference.cache
