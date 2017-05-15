@@ -21,7 +21,7 @@ namespace Redis.Test
             }   
             else
             {
-                RedisPubSubServer.Instance.Pub();
+               // RedisPubSubServer.Instance.Pub();
                 while (true)
                 {
                     string msg = Console.ReadLine();

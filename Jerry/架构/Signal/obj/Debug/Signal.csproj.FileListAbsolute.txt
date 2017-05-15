@@ -2,3 +2,4 @@ E:\Learn\net\Jerry\架构\Signal\bin\Debug\Signal.dll
 E:\Learn\net\Jerry\架构\Signal\bin\Debug\Signal.pdb
 E:\Learn\net\Jerry\架构\Signal\obj\Debug\Signal.dll
 E:\Learn\net\Jerry\架构\Signal\obj\Debug\Signal.pdb
+E:\Learn\net\Jerry\架构\Signal\obj\Debug\Signal.csprojResolveAssemblyReference.cache

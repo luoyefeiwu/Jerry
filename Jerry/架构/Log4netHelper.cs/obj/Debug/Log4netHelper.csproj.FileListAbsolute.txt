@@ -1,0 +1,7 @@
+E:\Learn\net\Jerry\架构\Log4netHelper.cs\bin\Debug\Log4netHelper.exe.config
+E:\Learn\net\Jerry\架构\Log4netHelper.cs\bin\Debug\Log4netHelper.exe
+E:\Learn\net\Jerry\架构\Log4netHelper.cs\bin\Debug\Log4netHelper.pdb
+E:\Learn\net\Jerry\架构\Log4netHelper.cs\bin\Debug\log4net.dll
+E:\Learn\net\Jerry\架构\Log4netHelper.cs\bin\Debug\log4net.xml
+E:\Learn\net\Jerry\架构\Log4netHelper.cs\obj\Debug\Log4netHelper.exe
+E:\Learn\net\Jerry\架构\Log4netHelper.cs\obj\Debug\Log4netHelper.pdb
