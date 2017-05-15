@@ -104,7 +104,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientHelper", "HttpCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorService", "架构\MonitorService\MonitorService.csproj", "{55907B1B-4AF7-4E29-A3BA-F3FA0AF26888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4netHelper", "架构\Log4netHelper.cs\Log4netHelper.csproj", "{FA744725-C24F-41BB-A9D4-2A9DAD16B39E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4netHelper", "架构\Log4netHelper\Log4netHelper.csproj", "{FA744725-C24F-41BB-A9D4-2A9DAD16B39E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
