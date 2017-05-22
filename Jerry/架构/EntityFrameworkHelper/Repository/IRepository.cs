@@ -35,7 +35,7 @@ namespace EntityFrameworkHelper.Repository
         /// <param name="predicate"></param>
         /// <param name="isCommit"></param>
         /// <returns></returns>
-        int DeleteByCondition<T>(Expression<Func<T, bool>> predicate, bool isCommit = true);
+        int DeleteByCondition(Expression<Func<T, bool>> predicate, bool isCommit = true);
 
         /// <summary>
         /// 根据条件修改
@@ -45,7 +45,7 @@ namespace EntityFrameworkHelper.Repository
         /// <param name="predicate"></param>
         /// <param name="isCommit"></param>
         /// <returns></returns>
-        int UpdateByCondition<T>(Action<T> updateExpression, Expression<Func<T, bool>> predicate, bool isCommit = true);
+        int UpdateByCondition(Action<T> updateExpression, Expression<Func<T, bool>> predicate, bool isCommit = true);
 
         /// <summary>
         /// 保存或者修改
@@ -55,7 +55,7 @@ namespace EntityFrameworkHelper.Repository
         /// <param name="isAdd"></param>
         /// <param name="isCommit"></param>
         /// <returns></returns>
-        bool SaveOrUpdate<T>(T entity, bool isAdd = false, bool isCommit = true);
+        bool SaveOrUpdate(T entity, bool isAdd = false, bool isCommit = true);
 
         /// <summary>
         /// 批量保存或者修改
@@ -65,6 +65,6 @@ namespace EntityFrameworkHelper.Repository
         /// <param name="isAdd"></param>
         /// <param name="isCommit"></param>
         /// <returns></returns>
-        bool SaveOrUpdateForList<T>(List<T> entities, bool isAdd = false, bool isCommit = true);
+        bool SaveOrUpdateForList(List<T> entities, bool isAdd = false, bool isCommit = true);
     }
 }

@@ -1,9 +1,8 @@
 ﻿using EntityFrameworkHelper.UnitOfWork;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EntityFrameworkHelper.Repository
 {
@@ -15,41 +14,75 @@ namespace EntityFrameworkHelper.Repository
         /// </summary>
         public IUnitOfWork UnitOfWork { get; set; }
 
-
-
-        public IQueryable<T> Entities
+        /// <summary>
+        /// 获取或设置 EntityFramework的数据仓储上下文
+        /// </summary>
+        protected IUnitOfWorkContext EFContext
         {
-            get { throw new NotImplementedException(); }
+            get
+            {
+                if (UnitOfWork is IUnitOfWorkContext)
+                {
+                    return UnitOfWork as IUnitOfWorkContext;
+                }
+                throw new Exception(string.Format("数据仓储上下文对象类型不正确，应为IUnitOfWorkContext，实际为 {0}", UnitOfWork.GetType().Name));
+            }
         }
 
-        public int Insert(T entity, bool isCommit = true)
+        public virtual IQueryable<T> Entities
         {
-            throw new NotImplementedException();
+            get { return EFContext.Set<T>(); }
+        }
+
+        public virtual int Insert(T entity, bool isCommit = true)
+        {
+            EFContext.RegisterNew(entity);
+            return isCommit ? EFContext.Commit() : 0;
         }
 
         public int Insert(IEquatable<T> entities, bool isCommit = true)
         {
-            throw new NotImplementedException();
+            EFContext.RegisterNew(entities);
+            return isCommit ? EFContext.Commit() : 0;
         }
 
-        public int DeleteByCondition<T>(System.Linq.Expressions.Expression<Func<T, bool>> predicate, bool isCommit = true)
+        public int DeleteByCondition(System.Linq.Expressions.Expression<Func<T, bool>> predicate, bool isCommit = true)
         {
-            throw new NotImplementedException();
+            var list = Entities.Where(predicate);
+            EFContext.RegisterDeleted(list);
+            return isCommit ? EFContext.Commit() : 0;
         }
 
-        public int UpdateByCondition<T>(Action<T> updateExpression, System.Linq.Expressions.Expression<Func<T, bool>> predicate, bool isCommit = true)
+        public int UpdateByCondition(Action<T> updateExpression, System.Linq.Expressions.Expression<Func<T, bool>> predicate, bool isCommit = true)
         {
-            throw new NotImplementedException();
+            var list = Entities.Where(predicate);
+            foreach (var item in list)
+            {
+                updateExpression(item);
+                EFContext.RegisterModified(item);
+            }
+            return isCommit ? EFContext.Commit() : 0;
         }
 
-        public bool SaveOrUpdate<T>(T entity, bool isAdd = false, bool isCommit = true)
+        public bool SaveOrUpdate(T entity, bool isAdd = false, bool isCommit = true)
         {
-            throw new NotImplementedException();
+            if (isAdd)
+                EFContext.RegisterNew(entity);
+            else
+                EFContext.RegisterModified(entity);
+            return isCommit ? EFContext.Commit() > 0 : false;
         }
 
-        public bool SaveOrUpdateForList<T>(List<T> entities, bool isAdd = false, bool isCommit = true)
+        public bool SaveOrUpdateForList(List<T> entities, bool isAdd = false, bool isCommit = true)
         {
-            throw new NotImplementedException();
+            foreach (var item in entities)
+            {
+                if (isAdd)
+                    EFContext.RegisterNew(item);
+                else
+                    EFContext.RegisterModified(item);
+            }
+            return isCommit ? EFContext.Commit() > 0 : false;
         }
     }
 }

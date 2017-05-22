@@ -25,7 +25,7 @@ namespace EntityFrameworkHelper.UnitOfWork
 
         /// <summary>
         ///   批量注册多个新的对象到仓储上下文中
-        /// </summary>
+        /// </summary>00
         /// <typeparam name="TEntity"> 要注册的类型 </typeparam>
         /// <param name="entities"> 要注册的对象集合 </param>
         void RegisterNew<TEntity>(IEnumerable<TEntity> entities) where TEntity :class;
