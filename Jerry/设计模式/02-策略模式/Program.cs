@@ -10,6 +10,10 @@ namespace _02_策略模式
     {
         static void Main(string[] args)
         {
+            Context context = new Context(Factory.CreateCalculator(Calculator.Add));
+            var result = context.exec(1, 2);
+            Console.WriteLine(result);
+            Console.Read();
         }
     }
 }

@@ -18,3 +18,4 @@ E:\Learn\net\Jerry\设计模式\18-备忘录模式\bin\Debug\18-备忘录模式.
 E:\Learn\net\Jerry\设计模式\18-备忘录模式\bin\Debug\18-备忘录模式.pdb
 E:\Learn\net\Jerry\设计模式\18-备忘录模式\obj\Debug\18-备忘录模式.exe
 E:\Learn\net\Jerry\设计模式\18-备忘录模式\obj\Debug\18-备忘录模式.pdb
+E:\Learn\net\Jerry\设计模式\18-备忘录模式\obj\Debug\18-备忘录模式.csprojResolveAssemblyReference.cache

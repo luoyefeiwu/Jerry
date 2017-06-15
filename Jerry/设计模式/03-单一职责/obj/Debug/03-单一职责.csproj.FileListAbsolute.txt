@@ -17,8 +17,8 @@ E:\gitSource\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.csproj
 E:\gitSource\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.exe
 E:\gitSource\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.pdb
 E:\Learn\net\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.exe.config
-E:\Learn\net\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.exe
-E:\Learn\net\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.pdb
 E:\Learn\net\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.exe
 E:\Learn\net\Jerry\设计模式\03-单一职责\bin\Debug\03-单一职责.pdb
+E:\Learn\net\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.exe
+E:\Learn\net\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.pdb
 E:\Learn\net\Jerry\设计模式\03-单一职责\obj\Debug\03-单一职责.csprojResolveAssemblyReference.cache
