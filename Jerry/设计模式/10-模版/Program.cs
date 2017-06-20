@@ -10,6 +10,12 @@ namespace _10_模版
     {
         static void Main(string[] args)
         {
+            Game game = new Basketball();
+            game.play();
+            Console.WriteLine("-------------");
+            game = new Football();
+            game.play();
+            Console.Read();
         }
     }
 }
