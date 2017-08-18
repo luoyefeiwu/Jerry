@@ -3,3 +3,8 @@ E:\Learn\net\Jerry\架构\Oauth\bin\Debug\Oauth.pdb
 E:\Learn\net\Jerry\架构\Oauth\obj\Debug\Oauth.dll
 E:\Learn\net\Jerry\架构\Oauth\obj\Debug\Oauth.pdb
 E:\Learn\net\Jerry\架构\Oauth\obj\Debug\Oauth.csprojResolveAssemblyReference.cache
+F:\Learn\net\Jerry\架构\Oauth\bin\Debug\Oauth.dll
+F:\Learn\net\Jerry\架构\Oauth\bin\Debug\Oauth.pdb
+F:\Learn\net\Jerry\架构\Oauth\obj\Debug\Oauth.csprojResolveAssemblyReference.cache
+F:\Learn\net\Jerry\架构\Oauth\obj\Debug\Oauth.dll
+F:\Learn\net\Jerry\架构\Oauth\obj\Debug\Oauth.pdb

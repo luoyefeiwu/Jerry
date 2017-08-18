@@ -11,3 +11,9 @@ E:\Learn\net\Jerry\架构\MonitorService\bin\Debug\MonitorService.pdb
 E:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.exe
 E:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.pdb
 E:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.csprojResolveAssemblyReference.cache
+F:\Learn\net\Jerry\架构\MonitorService\bin\Debug\MonitorService.exe.config
+F:\Learn\net\Jerry\架构\MonitorService\bin\Debug\MonitorService.exe
+F:\Learn\net\Jerry\架构\MonitorService\bin\Debug\MonitorService.pdb
+F:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.csprojResolveAssemblyReference.cache
+F:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.exe
+F:\Learn\net\Jerry\架构\MonitorService\obj\Debug\MonitorService.pdb

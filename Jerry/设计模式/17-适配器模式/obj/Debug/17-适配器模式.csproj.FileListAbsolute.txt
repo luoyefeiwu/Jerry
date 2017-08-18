@@ -19,3 +19,8 @@ E:\Learn\net\Jerry\设计模式\17-适配器模式\bin\Debug\17-适配器模式.
 E:\Learn\net\Jerry\设计模式\17-适配器模式\bin\Debug\17-适配器模式.pdb
 E:\Learn\net\Jerry\设计模式\17-适配器模式\obj\Debug\17-适配器模式.exe
 E:\Learn\net\Jerry\设计模式\17-适配器模式\obj\Debug\17-适配器模式.pdb
+F:\Learn\net\Jerry\设计模式\17-适配器模式\bin\Debug\17-适配器模式.exe.config
+F:\Learn\net\Jerry\设计模式\17-适配器模式\bin\Debug\17-适配器模式.exe
+F:\Learn\net\Jerry\设计模式\17-适配器模式\bin\Debug\17-适配器模式.pdb
+F:\Learn\net\Jerry\设计模式\17-适配器模式\obj\Debug\17-适配器模式.exe
+F:\Learn\net\Jerry\设计模式\17-适配器模式\obj\Debug\17-适配器模式.pdb

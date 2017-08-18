@@ -15,3 +15,8 @@ E:\Learn\net\Jerry\设计模式\02-策略模式\bin\Debug\02-策略模式.exe
 E:\Learn\net\Jerry\设计模式\02-策略模式\bin\Debug\02-策略模式.pdb
 E:\Learn\net\Jerry\设计模式\02-策略模式\obj\Debug\02-策略模式.exe
 E:\Learn\net\Jerry\设计模式\02-策略模式\obj\Debug\02-策略模式.pdb
+F:\Learn\net\Jerry\设计模式\02-策略模式\bin\Debug\02-策略模式.exe.config
+F:\Learn\net\Jerry\设计模式\02-策略模式\obj\Debug\02-策略模式.exe
+F:\Learn\net\Jerry\设计模式\02-策略模式\obj\Debug\02-策略模式.pdb
+F:\Learn\net\Jerry\设计模式\02-策略模式\bin\Debug\02-策略模式.exe
+F:\Learn\net\Jerry\设计模式\02-策略模式\bin\Debug\02-策略模式.pdb

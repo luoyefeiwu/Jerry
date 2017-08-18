@@ -18,3 +18,8 @@ E:\Learn\net\Jerry\设计模式\11-迪米特法则\bin\Debug\11-迪米特法则.
 E:\Learn\net\Jerry\设计模式\11-迪米特法则\bin\Debug\11-迪米特法则.pdb
 E:\Learn\net\Jerry\设计模式\11-迪米特法则\obj\Debug\11-迪米特法则.exe
 E:\Learn\net\Jerry\设计模式\11-迪米特法则\obj\Debug\11-迪米特法则.pdb
+F:\Learn\net\Jerry\设计模式\11-迪米特法则\bin\Debug\11-迪米特法则.exe.config
+F:\Learn\net\Jerry\设计模式\11-迪米特法则\bin\Debug\11-迪米特法则.exe
+F:\Learn\net\Jerry\设计模式\11-迪米特法则\bin\Debug\11-迪米特法则.pdb
+F:\Learn\net\Jerry\设计模式\11-迪米特法则\obj\Debug\11-迪米特法则.exe
+F:\Learn\net\Jerry\设计模式\11-迪米特法则\obj\Debug\11-迪米特法则.pdb

@@ -18,3 +18,8 @@ E:\Learn\net\Jerry\设计模式\24-职责模式\bin\Debug\24-职责模式.exe
 E:\Learn\net\Jerry\设计模式\24-职责模式\bin\Debug\24-职责模式.pdb
 E:\Learn\net\Jerry\设计模式\24-职责模式\obj\Debug\24-职责模式.exe
 E:\Learn\net\Jerry\设计模式\24-职责模式\obj\Debug\24-职责模式.pdb
+F:\Learn\net\Jerry\设计模式\24-职责模式\bin\Debug\24-职责模式.exe.config
+F:\Learn\net\Jerry\设计模式\24-职责模式\bin\Debug\24-职责模式.exe
+F:\Learn\net\Jerry\设计模式\24-职责模式\bin\Debug\24-职责模式.pdb
+F:\Learn\net\Jerry\设计模式\24-职责模式\obj\Debug\24-职责模式.exe
+F:\Learn\net\Jerry\设计模式\24-职责模式\obj\Debug\24-职责模式.pdb

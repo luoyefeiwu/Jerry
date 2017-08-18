@@ -18,3 +18,8 @@ E:\Learn\net\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.
 E:\Learn\net\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.pdb
 E:\Learn\net\Jerry\设计模式\28-访问者模式\obj\Debug\28-访问者模式.exe
 E:\Learn\net\Jerry\设计模式\28-访问者模式\obj\Debug\28-访问者模式.pdb
+F:\Learn\net\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.exe.config
+F:\Learn\net\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.exe
+F:\Learn\net\Jerry\设计模式\28-访问者模式\bin\Debug\28-访问者模式.pdb
+F:\Learn\net\Jerry\设计模式\28-访问者模式\obj\Debug\28-访问者模式.exe
+F:\Learn\net\Jerry\设计模式\28-访问者模式\obj\Debug\28-访问者模式.pdb

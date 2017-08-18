@@ -10,6 +10,11 @@ namespace _12_外观模式
     {
         static void Main(string[] args)
         {
+            ShapeMaker shapeMaker = new ShapeMaker();
+            shapeMaker.drawCircle();
+            shapeMaker.drawRectangle();
+            shapeMaker.drawSquare();
+            Console.Read();
         }
     }
 }

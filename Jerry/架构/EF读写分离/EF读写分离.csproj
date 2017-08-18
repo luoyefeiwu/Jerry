@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{22935857-6D16-451C-9220-BD13EBCEBF94}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EF读写分离</RootNamespace>
+    <AssemblyName>EF读写分离</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IRepository.cs" />
+    <Compile Include="Model\Address.cs" />
+    <Compile Include="Model\AdminManageUser.cs" />
+    <Compile Include="Model\AdminUserModule.cs" />
+    <Compile Include="Model\Agent.cs" />
+    <Compile Include="Model\AgentChainCheckMsg.cs" />
+    <Compile Include="Model\AgentCommissionRatio.cs" />
+    <Compile Include="Model\AgentInCity.cs" />
+    <Compile Include="Model\AgentInCityInProduct.cs" />
+    <Compile Include="Model\AgentInRestaurant.cs" />
+    <Compile Include="Model\AgentInRestaurantRejectedRecord.cs" />
+    <Compile Include="Model\AgentReasonForRejection.cs" />
+    <Compile Include="Model\AnalysisBusinessTemporarydata.cs" />
+    <Compile Include="Model\AnalysisBusinessTemporaryTask.cs" />
+    <Compile Include="Model\Application.cs" />
+    <Compile Include="Model\AuthTokenControlCenter.cs" />
+    <Compile Include="Model\BaiDuMapping.cs" />
+    <Compile Include="Model\BaseSiteSetting.cs" />
+    <Compile Include="Model\ChainMarketing.cs" />
+    <Compile Include="Model\ChainMarketingSend.cs" />
+    <Compile Include="Model\City.cs" />
+    <Compile Include="Model\CityBusinessDistrict.cs" />
+    <Compile Include="Model\CityLandMark.cs" />
+    <Compile Include="Model\CityOrderBrokerage.cs" />
+    <Compile Include="Model\CommErrorLog.cs" />
+    <Compile Include="Model\ConversationStatu.cs" />
+    <Compile Include="Model\CreditChangeLog.cs" />
+    <Compile Include="Model\Cuisine.cs" />
+    <Compile Include="Model\Customer.cs" />
+    <Compile Include="Model\CustomerAliasClassification.cs" />
+    <Compile Include="Model\CustomerAliasClassificationInRestaurantRFM.cs" />
+    <Compile Include="Model\CustomerAnniversary.cs" />
+    <Compile Include="Model\CustomerAnniversaryClassification.cs" />
+    <Compile Include="Model\CustomerAppellation.cs" />
+    <Compile Include="Model\CustomerAssginStat.cs" />
+    <Compile Include="Model\CustomerAssginStatLog.cs" />
+    <Compile Include="Model\CustomerBadRecord.cs" />
+    <Compile Include="Model\CustomerClassWithRFM.cs" />
+    <Compile Include="Model\CustomerCredit.cs" />
+    <Compile Include="Model\CustomerDisease.cs" />
+    <Compile Include="Model\CustomerInfoChange.cs" />
+    <Compile Include="Model\CustomerMemo.cs" />
+    <Compile Include="Model\CustomerMemorandum.cs" />
+    <Compile Include="Model\CustomerMerge.cs" />
+    <Compile Include="Model\CustomerMergeLog.cs" />
+    <Compile Include="Model\CustomerMultipleCount.cs" />
+    <Compile Include="Model\CustomerNote.cs" />
+    <Compile Include="Model\CustomerSurvey.cs" />
+    <Compile Include="Model\CustomerSurveyClassification.cs" />
+    <Compile Include="Model\CustomerTag.cs" />
+    <Compile Include="Model\CustomerTagClickLog.cs" />
+    <Compile Include="Model\DbReadEntity.cs" />
+    <Compile Include="Model\DbWriteEntity.cs" />
+    <Compile Include="Model\Deskcommission.cs" />
+    <Compile Include="Model\DicData.cs" />
+    <Compile Include="Model\Disease.cs" />
+    <Compile Include="Model\DstVirtualNum.cs" />
+    <Compile Include="Model\DstVirtualNumInfo.cs" />
+    <Compile Include="Model\DZFeedback.cs" />
+    <Compile Include="Model\DZUserInfo.cs" />
+    <Compile Include="Model\DZUserOrder.cs" />
+    <Compile Include="Model\ExtChannel.cs" />
+    <Compile Include="Model\ExtChannelCity.cs" />
+    <Compile Include="Model\ExtChannelDayStat.cs" />
+    <Compile Include="Model\ExtChannelMonthStat.cs" />
+    <Compile Include="Model\ExtChannelPhone.cs" />
+    <Compile Include="Model\ImportDataTemp.cs" />
+    <Compile Include="Model\LunisolarData.cs" />
+    <Compile Include="Model\ManualTopUpLog.cs" />
+    <Compile Include="Model\Marketing.cs" />
+    <Compile Include="Model\MarketingClassification.cs" />
+    <Compile Include="Model\MarketingCount.cs" />
+    <Compile Include="Model\MarketingOrdination.cs" />
+    <Compile Include="Model\MarketingToCustomer.cs" />
+    <Compile Include="Model\MarketingToCustomerToOrder.cs" />
+    <Compile Include="Model\MarketingToCustomer_bak.cs" />
+    <Compile Include="Model\MarketingToRestaurant.cs" />
+    <Compile Include="Model\Material.cs" />
+    <Compile Include="Model\MaterialClassification.cs" />
+    <Compile Include="Model\MessageNotice.cs" />
+    <Compile Include="Model\Module.cs" />
+    <Compile Include="Model\ModuleOperation.cs" />
+    <Compile Include="Model\Operation.cs" />
+    <Compile Include="Model\Order.cs" />
+    <Compile Include="Model\OrderDesk.cs" />
+    <Compile Include="Model\OrderDeskUpdateAmount.cs" />
+    <Compile Include="Model\OrderDesk_bak.cs" />
+    <Compile Include="Model\OrderInLabel.cs" />
+    <Compile Include="Model\OrderInMarketing.cs" />
+    <Compile Include="Model\OrderOtherPayRecord.cs" />
+    <Compile Include="Model\OrderPersonalized.cs" />
+    <Compile Include="Model\OrderPersonalizedPic.cs" />
+    <Compile Include="Model\OrderRemarkLabel.cs" />
+    <Compile Include="Model\Order_bak.cs" />
+    <Compile Include="Model\Page.cs" />
+    <Compile Include="Model\Phone.cs" />
+    <Compile Include="Model\PhoneQuit.cs" />
+    <Compile Include="Model\PhoneReserve.cs" />
+    <Compile Include="Model\PhoneReserveArchive.cs" />
+    <Compile Include="Model\PhoneReserve_bak.cs" />
+    <Compile Include="Model\PhoneValidCode.cs" />
+    <Compile Include="Model\Product.cs" />
+    <Compile Include="Model\ProductCommissionRatio.cs" />
+    <Compile Include="Model\QrCode.cs" />
+    <Compile Include="Model\QrCodeLog.cs" />
+    <Compile Include="Model\QrCodeStat.cs" />
+    <Compile Include="Model\RecordOpenOrderError.cs" />
+    <Compile Include="Model\ResCuisine.cs" />
+    <Compile Include="Model\ReserveOrder.cs" />
+    <Compile Include="Model\ResReply.cs" />
+    <Compile Include="Model\Restaurant.cs" />
+    <Compile Include="Model\RestaurantAdditionalRecording.cs" />
+    <Compile Include="Model\RestaurantArea.cs" />
+    <Compile Include="Model\RestaurantAreaDesk.cs" />
+    <Compile Include="Model\RestaurantAreaDeskChildren.cs" />
+    <Compile Include="Model\RestaurantAreaDeskClassification.cs" />
+    <Compile Include="Model\RestaurantAreaDeskCost.cs" />
+    <Compile Include="Model\RestaurantAreaDeskFacility.cs" />
+    <Compile Include="Model\RestaurantAreaDeskInRestaurantAreaDeskCost.cs" />
+    <Compile Include="Model\RestaurantAreaDeskPic.cs" />
+    <Compile Include="Model\RestaurantAreaDeskRelation.cs" />
+    <Compile Include="Model\RestaurantAreaDeskRelationDetail.cs" />
+    <Compile Include="Model\RestaurantAreaStatisticsSet.cs" />
+    <Compile Include="Model\RestaurantBanquet.cs" />
+    <Compile Include="Model\RestaurantBasicInfo.cs" />
+    <Compile Include="Model\RestaurantBasicInfoI.cs" />
+    <Compile Include="Model\RestaurantClassification.cs" />
+    <Compile Include="Model\RestaurantCustomerAutomaticClassification.cs" />
+    <Compile Include="Model\RestaurantCXJDeskInfo.cs" />
+    <Compile Include="Model\RestaurantDiscount.cs" />
+    <Compile Include="Model\RestaurantDiscountRight.cs" />
+    <Compile Include="Model\RestaurantFinanceClassification.cs" />
+    <Compile Include="Model\RestaurantInvoice.cs" />
+    <Compile Include="Model\RestaurantLicense.cs" />
+    <Compile Include="Model\RestaurantMealsTime.cs" />
+    <Compile Include="Model\RestaurantMealsTimeClassification.cs" />
+    <Compile Include="Model\RestaurantMealsTimeClassificationInTime.cs" />
+    <Compile Include="Model\RestaurantOpen.cs" />
+    <Compile Include="Model\RestaurantOperaSetting.cs" />
+    <Compile Include="Model\RestaurantOrderDeskCount.cs" />
+    <Compile Include="Model\RestaurantOrderDeskCount_bak.cs" />
+    <Compile Include="Model\RestaurantPhone.cs" />
+    <Compile Include="Model\RestaurantProduct.cs" />
+    <Compile Include="Model\RestaurantRFM.cs" />
+    <Compile Include="Model\RestaurantRFMClassification.cs" />
+    <Compile Include="Model\RestaurantRFMverage.cs" />
+    <Compile Include="Model\RestaurantSMSRoute.cs" />
+    <Compile Include="Model\RestaurantSmsTemplate.cs" />
+    <Compile Include="Model\RestaurantTotalDetail.cs" />
+    <Compile Include="Model\RestaurantUser.cs" />
+    <Compile Include="Model\RestaurantUserAreaRight.cs" />
+    <Compile Include="Model\RestaurantUserAreaSaleRight.cs" />
+    <Compile Include="Model\RestaurantUserComeTelRight.cs" />
+    <Compile Include="Model\RestaurantWorthClassification.cs" />
+    <Compile Include="Model\SmsPrice.cs" />
+    <Compile Include="Model\SmsSendStateRecord.cs" />
+    <Compile Include="Model\SmsTemplateParameter.cs" />
+    <Compile Include="Model\SoundRecording.cs" />
+    <Compile Include="Model\sysdiagram.cs" />
+    <Compile Include="Model\TelOrder.cs" />
+    <Compile Include="Model\T_BillNo.cs" />
+    <Compile Include="Model\t_Charge_Info.cs" />
+    <Compile Include="Model\T_Finance_Detail.cs" />
+    <Compile Include="Model\T_InCome_Detail.cs" />
+    <Compile Include="Model\T_Pay_Detail.cs" />
+    <Compile Include="Model\T_SendSMS.cs" />
+    <Compile Include="Model\T_SmsTask.cs" />
+    <Compile Include="Model\T_Stat_ActiveMemberValue.cs" />
+    <Compile Include="Model\T_Stat_ChannelResource_Total.cs" />
+    <Compile Include="Model\T_Stat_Channel_Detail.cs" />
+    <Compile Include="Model\T_Stat_Channel_Detail_20161122bak.cs" />
+    <Compile Include="Model\T_Stat_Channel_Detail_bak.cs" />
+    <Compile Include="Model\T_Stat_Channel_Head.cs" />
+    <Compile Include="Model\T_Stat_CustomerClass.cs" />
+    <Compile Include="Model\T_Stat_CustomerOrderStatus.cs" />
+    <Compile Include="Model\T_Stat_CustomerOrder_Detail.cs" />
+    <Compile Include="Model\T_Stat_CustomerStatus.cs" />
+    <Compile Include="Model\T_Stat_CustomerStatus_StatusHistory.cs" />
+    <Compile Include="Model\T_Stat_Detail.cs" />
+    <Compile Include="Model\T_Stat_DZUser_TotalConsumption.cs" />
+    <Compile Include="Model\T_Stat_Head.cs" />
+    <Compile Include="Model\T_Stat_Marketing_Detail.cs" />
+    <Compile Include="Model\T_Stat_Marketing_Head.cs" />
+    <Compile Include="Model\T_Stat_Order_Detail.cs" />
+    <Compile Include="Model\T_Stat_Order_Head.cs" />
+    <Compile Include="Model\T_Stat_Restaurant_Total.cs" />
+    <Compile Include="Model\T_Withdraw_Detail.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Model\UserGroup.cs" />
+    <Compile Include="Model\UserInAgent.cs" />
+    <Compile Include="Model\UserInChain.cs" />
+    <Compile Include="Model\UserInCustomerClassification.cs" />
+    <Compile Include="Model\UserLoginLog.cs" />
+    <Compile Include="Model\UserModule.cs" />
+    <Compile Include="Model\UserOperateLog.cs" />
+    <Compile Include="Model\UserOperateLog_bak.cs" />
+    <Compile Include="Model\UserPhone.cs" />
+    <Compile Include="Model\UserQuit.cs" />
+    <Compile Include="Model\UserReportSetting.cs" />
+    <Compile Include="Model\UserSetting.cs" />
+    <Compile Include="Model\WXBirthdayMarkingSend.cs" />
+    <Compile Include="Model\WXCustomer.cs" />
+    <Compile Include="Model\WXCustomerRelation.cs" />
+    <Compile Include="Model\WXDZUser.cs" />
+    <Compile Include="Model\WXDZUserShareLog.cs" />
+    <Compile Include="Model\WXMarkingSend.cs" />
+    <Compile Include="Model\WXPublicAccount.cs" />
+    <Compile Include="Model\WXRe.cs" />
+    <Compile Include="Model\WXUser.cs" />
+    <Compile Include="Model\WXUserSendRecord.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Service\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

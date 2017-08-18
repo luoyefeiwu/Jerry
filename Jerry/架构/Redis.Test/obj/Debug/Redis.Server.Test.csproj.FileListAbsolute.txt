@@ -21,3 +21,11 @@ E:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.pdb
 E:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Server.Test.csprojResolveAssemblyReference.cache
 E:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Test.exe
 E:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Test.pdb
+F:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.Test.exe.config
+F:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.Test.exe
+F:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.Test.pdb
+F:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.dll
+F:\Learn\net\Jerry\架构\Redis.Test\bin\Debug\Redis.pdb
+F:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Server.Test.csprojResolveAssemblyReference.cache
+F:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Test.exe
+F:\Learn\net\Jerry\架构\Redis.Test\obj\Debug\Redis.Test.pdb

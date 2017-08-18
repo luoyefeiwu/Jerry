@@ -18,3 +18,8 @@ E:\Learn\net\Jerry\设计模式\12-外观模式\bin\Debug\12-外观模式.exe
 E:\Learn\net\Jerry\设计模式\12-外观模式\bin\Debug\12-外观模式.pdb
 E:\Learn\net\Jerry\设计模式\12-外观模式\obj\Debug\12-外观模式.exe
 E:\Learn\net\Jerry\设计模式\12-外观模式\obj\Debug\12-外观模式.pdb
+F:\Learn\net\Jerry\设计模式\12-外观模式\bin\Debug\12-外观模式.exe.config
+F:\Learn\net\Jerry\设计模式\12-外观模式\bin\Debug\12-外观模式.exe
+F:\Learn\net\Jerry\设计模式\12-外观模式\bin\Debug\12-外观模式.pdb
+F:\Learn\net\Jerry\设计模式\12-外观模式\obj\Debug\12-外观模式.exe
+F:\Learn\net\Jerry\设计模式\12-外观模式\obj\Debug\12-外观模式.pdb
