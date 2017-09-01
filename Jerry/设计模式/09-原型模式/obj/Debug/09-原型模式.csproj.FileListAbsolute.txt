@@ -22,6 +22,5 @@ E:\Learn\net\Jerry\设计模式\09-原型模式\obj\Debug\09-原型模式.pdb
 F:\Learn\net\Jerry\设计模式\09-原型模式\bin\Debug\09-原型模式.exe.config
 F:\Learn\net\Jerry\设计模式\09-原型模式\bin\Debug\09-原型模式.exe
 F:\Learn\net\Jerry\设计模式\09-原型模式\bin\Debug\09-原型模式.pdb
-F:\Learn\net\Jerry\设计模式\09-原型模式\obj\Debug\09-原型模式.csprojResolveAssemblyReference.cache
 F:\Learn\net\Jerry\设计模式\09-原型模式\obj\Debug\09-原型模式.exe
 F:\Learn\net\Jerry\设计模式\09-原型模式\obj\Debug\09-原型模式.pdb

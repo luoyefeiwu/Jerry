@@ -19,6 +19,5 @@ E:\Learn\net\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.csprojResolv
 F:\Learn\net\Jerry\设计模式\14-观察者\bin\Debug\14-观察者.exe.config
 F:\Learn\net\Jerry\设计模式\14-观察者\bin\Debug\14-观察者.exe
 F:\Learn\net\Jerry\设计模式\14-观察者\bin\Debug\14-观察者.pdb
-F:\Learn\net\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.csprojResolveAssemblyReference.cache
 F:\Learn\net\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.exe
 F:\Learn\net\Jerry\设计模式\14-观察者\obj\Debug\14-观察者.pdb
