@@ -23,4 +23,3 @@ F:\Learn\net\Jerry\设计模式\15-抽象工厂\bin\Debug\15-抽象工厂.exe
 F:\Learn\net\Jerry\设计模式\15-抽象工厂\bin\Debug\15-抽象工厂.pdb
 F:\Learn\net\Jerry\设计模式\15-抽象工厂\obj\Debug\15-抽象工厂.exe
 F:\Learn\net\Jerry\设计模式\15-抽象工厂\obj\Debug\15-抽象工厂.pdb
-F:\Learn\net\Jerry\设计模式\15-抽象工厂\obj\Debug\15-抽象工厂.csprojResolveAssemblyReference.cache

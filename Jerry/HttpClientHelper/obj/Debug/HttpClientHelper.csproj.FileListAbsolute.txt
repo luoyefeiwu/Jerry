@@ -9,7 +9,6 @@ E:\Learn\net\Jerry\HttpClientHelper\bin\Debug\Newtonsoft.Json.xml
 E:\Learn\net\Jerry\HttpClientHelper\obj\Debug\HttpClientHelper.exe
 E:\Learn\net\Jerry\HttpClientHelper\obj\Debug\HttpClientHelper.pdb
 E:\Learn\net\Jerry\HttpClientHelper\obj\Debug\HttpClientHelper.csprojResolveAssemblyReference.cache
-F:\Learn\net\Jerry\HttpClientHelper\obj\Debug\HttpClientHelper.csprojResolveAssemblyReference.cache
 F:\Learn\net\Jerry\HttpClientHelper\obj\Debug\HttpClientHelper.exe
 F:\Learn\net\Jerry\HttpClientHelper\obj\Debug\HttpClientHelper.pdb
 F:\Learn\net\Jerry\HttpClientHelper\bin\Debug\HttpClientHelper.exe.config

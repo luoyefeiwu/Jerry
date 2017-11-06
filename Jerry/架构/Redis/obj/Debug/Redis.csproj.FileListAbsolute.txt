@@ -19,6 +19,5 @@ F:\Learn\net\Jerry\架构\Redis\bin\Debug\ServiceStack.Text.dll
 F:\Learn\net\Jerry\架构\Redis\bin\Debug\ServiceStack.Common.xml
 F:\Learn\net\Jerry\架构\Redis\bin\Debug\ServiceStack.Redis.xml
 F:\Learn\net\Jerry\架构\Redis\bin\Debug\ServiceStack.Text.xml
-F:\Learn\net\Jerry\架构\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
 F:\Learn\net\Jerry\架构\Redis\obj\Debug\Redis.dll
 F:\Learn\net\Jerry\架构\Redis\obj\Debug\Redis.pdb
