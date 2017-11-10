@@ -19,3 +19,4 @@ F:\Learn\net\Jerry\HttpClientHelper\bin\Debug\System.Net.Http.Extensions.dll
 F:\Learn\net\Jerry\HttpClientHelper\bin\Debug\System.Net.Http.Formatting.dll
 F:\Learn\net\Jerry\HttpClientHelper\bin\Debug\System.Net.Http.Primitives.dll
 F:\Learn\net\Jerry\HttpClientHelper\bin\Debug\Newtonsoft.Json.xml
+F:\Learn\net\Jerry\HttpClientHelper\obj\Debug\HttpClientHelper.csprojResolveAssemblyReference.cache

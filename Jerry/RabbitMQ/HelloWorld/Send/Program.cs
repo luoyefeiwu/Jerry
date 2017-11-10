@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RabbitMQClient
+namespace Send
 {
     class Program
     {
@@ -16,15 +16,17 @@ namespace RabbitMQClient
             {
                 using (var channel = connection.CreateModel())
                 {
-                    //定义队列（hello为队列名）
-                    channel.QueueDeclare("hello", false, false, false, null);
-                    //发送到队列的消息，包含时间戳
-                    string message = "Hello World!" + "_" + DateTime.Now.ToString();
+                    channel.QueueDeclare(queue: "hello", durable: false, exclusive: false, autoDelete: false, arguments: null);
+
+                    string message = "Hello World!";
                     var body = Encoding.UTF8.GetBytes(message);
-                    channel.BasicPublish("", "hello", null, body);
+
+                    channel.BasicPublish(exchange: "", routingKey: "hello", basicProperties: null, body: body);
                     Console.WriteLine(" [x] Sent {0}", message);
                 }
             }
+            Console.WriteLine(" Press [enter] to exit.");
+            Console.ReadLine();
         }
     }
 }
